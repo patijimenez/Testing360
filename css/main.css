@@ -1,0 +1,180 @@
+/*Clases generales*/
+.width-90{
+	width: 90%;
+}
+.center{
+	text-align: center;
+}
+.inline{
+	display: inline-block;
+}
+.margin-top{
+	margin-top: 354px;
+}
+.margin-t{
+    margin-top: 282px;
+    background-color: #555;
+    /* color: #F1F1F1; */
+    height: 141px;
+    padding-top: 35px;
+}
+.margin-bottom{
+	margin-bottom: 36px;
+}
+.margin-l{
+	margin-left: 76px;
+}
+.pd-bottom{
+	padding-bottom: 64px;
+}
+/*Header*/
+.bg-header{
+	background-image: url(../image/large.jpg);
+	background-size: cover;
+    height: 635px;
+	max-width: 100%;
+	-webkit-filter: contrast(30%);
+
+}
+.nav{
+	display: inline;
+}
+a{
+	color: white;
+}
+a:link{
+	text-decoration: none;
+	color: white;
+}
+.move{
+	margin-top: -620px;
+}
+.cont-prueba{
+	width: 96.6%;
+	height: 200px;
+	background-color:rgba(0, 102, 255, 0.42);
+	position: absolute;
+	margin-top: 83px;
+}
+/*Texto*/
+.text-white{
+	color: white;
+}
+.text-blue{
+	color: blue;
+}
+/*Backgrounds*/
+.bg-blue{
+	background-color: blue;
+}
+.bg-white{
+	background-color: white;
+}
+.bg-gray{
+	background-color: gray;
+}
+.bg-usertest{
+	background-image: url(../image/banner.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 390px;
+}
+/*Backgraound de la seccion 2*/
+.bg-sec-2{
+	background-image: url(../image/sec-2.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 587px;
+	-webkit-filter: grayscale(40%);
+	margin-top: -21px;
+}
+
+/*Botones*/
+.pruebalo-gratis{
+	border: 3px solid white;
+    font-size: x-large;
+    width: 199px;
+}
+.font-size{
+	font-size: xx-large;
+}
+.font-size-20{
+
+}
+.margin-left{
+	margin-left: 336px;
+    margin-right: 76px;
+    padding-top: 45px;
+}
+.font-size-menu{
+	font-size: larger;
+}
+.title-bg{
+	width: 755px;
+    font-size: -webkit-xxx-large;
+    padding-top: 167px;
+    margin-left: -177px;
+}
+.text-blue{
+	color: #0093FF;
+}
+.font-sub{
+    font-size: large;
+    color: #31708F;
+}
+.logo-text{
+	width: 244px;
+}
+#sub1{
+    margin-left: 66px;
+    padding-bottom: 25px;
+}
+#sub2{
+    margin-right: 73px;
+    padding-left: 44px;
+}
+#sub3{
+	margin-right: 80px;
+    padding-left: 49px;
+}
+  /*CAMBIAR EL NOMBRE DE LA CLASE.........................*/
+.margin{
+	padding-left: 75px;
+}
+/*................*/
+.circulo{
+    border-radius: 100px;
+    height: 122px;
+    width: 122px;
+    background-color: white;
+    border: none;
+    border-bottom-style: inset;
+}
+#linea{
+	margin-top: 100px;
+}
+#separador{
+    margin-left: 50%;
+    margin-top: -72px;
+}
+.button-head{
+	border-bottom: none;
+    background-color: rgba(0, 102, 255, 0);
+    border: none;
+}
+#tam-div{
+	width: 266px;
+}
+#video{
+    font-size: xx-large;
+    color: #2098d1;
+}
+.list-f{
+	list-style-type: none;
+}
+.cont-2{
+	width: 98.9%;
+}
+#gmail{
+	color: blue;
+}
